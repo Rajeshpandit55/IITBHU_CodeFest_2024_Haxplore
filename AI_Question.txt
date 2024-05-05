@@ -1,0 +1,3 @@
+what is And -OR Graph ? why A* algorithm is not
+sufficient to search AND-OR
+graph ?
