@@ -26,10 +26,11 @@ The Temple Ticketing System is a web-based platform designed to streamline the p
 - Improve access for all visitors with online ticketing options.
 
 # Authors
+- Rajesh Pandit - https://github.com/Rajeshpandit55
 - Soumendu Roy - https://github.com/roysoumendu765
 - Sudhanshu Shekhar - https://github.com/sudhanshuBHU
 - Gaurav Sharma - https://github.com/GauravSolo
-- Rajesh Pandit - https://github.com/Rajeshpandit55
+
 
 ## Features
 - Book and Generate Online Tickets
